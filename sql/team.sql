@@ -1,5 +1,6 @@
 DROP TABLE players;
 DROP TABLE coaches; 
+DROP TABLE recruited;
 
 CREATE TABLE players(
 playerid INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
